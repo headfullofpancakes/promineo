@@ -1,3 +1,5 @@
 # promineo
 Promineo Tech Bootcamp Repo
-Helloo
+Hello I am the Promineo Tech Bootcamp Repo
+
+Currently, I house javascript labs.
